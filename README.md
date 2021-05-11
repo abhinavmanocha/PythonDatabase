@@ -1,6 +1,6 @@
 <h1 align="center">
   <p float="left">
-  <img src="pythonDatabase.png.png" alt="Pthon database image" width="300" />
+  <img src="pythonDatabase.png" alt="Python database image" width="300" />
 </p>
   <br>
   Python Database Core Files
